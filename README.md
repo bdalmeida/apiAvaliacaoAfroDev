@@ -1,2 +1,5 @@
 # apiAvaliacaoAfroDev
-API de avaliação final do projeto AfroDev-ALELO
+Projeto de avaliação final do projeto AfroDev-ALELO
+API com métodos GET-POST-PUT-DELETE
+
+
